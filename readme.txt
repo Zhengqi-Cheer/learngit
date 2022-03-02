@@ -1,2 +1,2 @@
-Git is a version conrol system.
+Git is a  distributed version control system.
 goit is free software.
